@@ -6,8 +6,8 @@ located_in: Querétaro, MX.
 from: London, UK. 
 
 education: Enrolled in Computer Science with Electri Engineering
-fields_of_interests: ["Machine Learning", "Data Science", "Backend Development", "Robotics", 
-                      "Computer Vision", "IoT", "Embedded Systems", "etc."]
+fields_of_interests: ["Backend Development", "Machine Learning", "Data Science", "Robotics", 
+                      "Computer Vision", "Computer Engineering", "etc."]
 hobbies: ["Swimming", "Coding", "Gaming", "Learn new things", "Cooking"]
 ```
 
