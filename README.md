@@ -5,7 +5,7 @@ name: Ezzat Alzahouri C.
 located_in: Querétaro, MX. 
 from: London, UK. 
 
-education: Enrolled in Computer Science with Electri Engineering
+education: Enrolled in B.S. in Robotics and Digital Systems Engineering
 fields_of_interests: ["Backend Development", "Machine Learning", "Data Science", "Robotics", 
                       "Computer Vision", "Computer Engineering", "etc."]
 hobbies: ["Swimming", "Coding", "Gaming", "Learn new things", "Cooking"]
