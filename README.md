@@ -13,7 +13,7 @@ hobbies: ["Swimming", "Coding", "Gaming", "Learn new things", "Cooking"]
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/DrearyLand"><img src="https://skillicons.dev/icons?i=vscode,replit,github,git,css,html,js,nodejs,nextjs,react,flask,python,cpp,c,java,arduino,"> </a> </p>
+<p align="left"> <a href="https://github.com/DrearyLand"><img src="https://skillicons.dev/icons?i=vscode,replit,github,git,css,html,js,nodejs,nextjs,react,python,opencv,cpp,c,java,arduino,"> </a> </p>
 
 <!--
 **DrearyLand/DrearyLand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
